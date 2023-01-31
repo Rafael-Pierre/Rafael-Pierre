@@ -13,7 +13,7 @@
   
 <div align="center" ><br>
   
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
           
   <img align="center"  height="55" width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
   
