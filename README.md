@@ -1,7 +1,7 @@
 ## Olá a todos, eu me chamo Rafael Pierre.
 
 
-- 🔭 Hoje estou trabalhando na Área de Banco de Dados, principalmente com o SGDB Oracle DataBase e linguagens de script para automatização de processos relacionados a Banco. 
+- 🔭 Hoje estou trabalhando como Fulll Stack Developer. Atuando principalmente com javascript, html e css no front, Python e seu framework Flask para o Back  e o SGDB PostgreSQL. 
 - 👨‍🎓 Estudei no CEFET-MG no curso técnico integrado de Redes de Computadores e hoje estou me Graduando pela PUC-MINAS no curso de Engenharia de Software
 - 🌱 Atualmente estudando áreas relacionadas a Front-end
 - 😄 Pronouns: Ele/Dele
@@ -13,11 +13,13 @@
   
 <div align="center" ><br>
   
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
-          
-  <img align="center"  height="55" width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
+  <img align="center" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
-  <img align="center"  height="45" width="55" src="https://iconarchive.com/download/i76137/guillendesign/variations-2/Script-Console.ico">
+  <img align="center" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  
+  <img align="center" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  
+  <img align="center"  height="55" width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
   
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
