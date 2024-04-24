@@ -4,14 +4,13 @@
 - 🔭 Hoje estou trabalhando como Fulll Stack Developer. Atuando principalmente com javascript, html e css no front, Python e seu framework Flask para o Back  e o SGDB PostgreSQL. 
 - 👨‍🎓 Estudei no CEFET-MG no curso técnico integrado de Redes de Computadores e hoje estou me Graduando pela PUC-MINAS no curso de Engenharia de Software
 - 🌱 Atualmente estudando áreas relacionadas a Front-end
-- 😄 Pronouns: Ele/Dele
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/Rafael-Pierre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelPierre&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
- -->
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Pierre&layout=compact&langs_count=8&theme=vue-dark/> </p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Pierre&layout=compact&langs_count=8&theme=vdark/> </p>
   
 <div align="center" ><br>
   
